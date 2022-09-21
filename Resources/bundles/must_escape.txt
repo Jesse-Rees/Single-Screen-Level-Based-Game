@@ -1,0 +1,21 @@
+// Player Models
+BITMAP, red_player, red_square.png
+BITMAP, blue_player, blue_square.png
+BITMAP, green_player, green_square.png
+// Obstacles
+BITMAP, blue_obstacle, blue_obstacle.png
+// Teleporter
+BITMAP, teleporter, teleporter.png
+// Titles
+BITMAP, title, title.png
+BITMAP, menu, menu.png
+BITMAP, game_over, game_over.png
+// Lives
+BITMAP, lives, lives.png
+// Walls
+BITMAP, wall_1, wall_1.png
+BITMAP, wall_2, wall_2.png
+BITMAP, wall_3, wall_3.png
+BITMAP, wall_4, wall_4.png
+// Button
+BITMAP, button, button.png
